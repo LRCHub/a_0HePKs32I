@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "有心論",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-03T09:13:48.647568Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "有心論",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_有心論_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "有心論",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_有心論_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "有心論",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_有心論_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "有心論 - Yuushinron",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/04_有心論_-_Yuushinron_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "有心論",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_有心論_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "有心論 - BACK TO THE LIVE HOUSE TOUR 2023 Live at Zepp Haneda(TOKYO) [2023/7/5]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_有心論_-_BACK_TO_THE_LIVE_HOUSE_TOUR_2023_Live_at_Zepp_Haneda(TOKYO)_[2023_7_5]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "有心論",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/07_有心論_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "有心論",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_有心論_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "有心論",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_有心論_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
